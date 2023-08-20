@@ -16,7 +16,7 @@ enjoy :)
 
 ## Commands
 
-makeguest - usage: <prefix>makeguest <roleid> (for each member with that role, remove "Member" role and add "Guest" role)
+makeguest - usage: \<prefixmakeguest> \<roleid> (for each member with that role, remove "Member" role and add "Guest" role)
 
 ## TODO
 
