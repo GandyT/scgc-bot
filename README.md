@@ -8,7 +8,7 @@ Clone the repository.
 
 cd into directory and type "npm install"
 
-create .env file with line "TOKEN=<discord bot token>"
+create .env file with line "TOKEN=\<discord bot token>"
 
 node .
 
